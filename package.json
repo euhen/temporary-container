@@ -1,0 +1,16 @@
+{
+  "name": "temporary-container",
+  "version": "0.1.0",
+  "description": "A minimal temporary container implementation",
+  "main": "temporaryContainer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "container",
+    "temporary",
+    "lifetime"
+  ],
+  "author": "Yevhen Stohniienko",
+  "license": "ISC"
+}
